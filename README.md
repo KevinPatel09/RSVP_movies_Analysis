@@ -8,10 +8,19 @@ RSVP Movies is an Indian film production company which has produced many super-h
 The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You have to analyse the data set and draw meaningful insights that can help them start their new project.
 
 # Insights
-The number of movies being produced have declined over the years from 3052 movies in 2017 to 2001 movies in 2019.
-Drama is the top genre having highest number of movies being produced with a total of 4285 movies and an average duration of 106.77 minutes.
-Dream Warrior Pictures and National Theatre Live are the top two production companies having highest number of movies produced.
-Marvel Studios, Twentieth Century Fox, and Warner Bros. are the top three production houses based on the total votes.
-Mammootty and Mohanlal are the top two actors based on the median rating.
-Taapsee Pannu can be considered as the actress because she is the top actress in Hindi movies released in India with an average rating of 7.74.
-Star Cinema and Twentieth Century Fox are the top two production houses having highest number of multilingual movie hits (median rating >= 8).
+
+•	Drama genre had the highest number of movies (1078) produced in year 2019, people like to watch drama the most hence company should focus drama genre in future.
+•	Possible average duration for movie must be between 105 – 113 minutes duration of RSVP Movie’s next project.
+•	Production houses like Dream Warrior Pictures (Rank 1), National Theatre Live (Rank 2), both of them could be their upcoming project’s production companies.
+•	Company should focus German languages movies as compare to Italian. 
+•	James Mangold can be hired as the director for RSVP's next project who has higher average ratings.
+•	Actors named Mammoothy (Rank 1) and Mohanlal (Rank 2) can be hired in their next movies either individually or together based on median ratings.
+•	RSVP Movies can plan to partner with other global production houses like Marvel Studios (Rank 1), Twentieth Century Fox (Rank 2) for their upcoming films, as number of votes receives is comparatively higher than other productions houses. 
+•	For their upcoming movies they can cast actor Vijay Sethupathiin in lead role who received high votes among five movies having average rating of 8.42. 
+•	If we talk about actress then Taapsee Pannu tops with average rating 7.74, 
+so casting her in future projects will be profitable. 
+•	For multilingual movies, company could reach out with two production houses Star Cinema and Twentieth Century Fox that have produced the highest number of hits with median rating >= 8 to generate better profits.
+
+
+
+
